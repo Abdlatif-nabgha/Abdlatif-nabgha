@@ -63,7 +63,7 @@ Greetings, digital adventurers! I'm Abd Latif, a code conjurer navigating the in
 ## <span style="color: #FF6B6B;">🌌 Embark on This Coding Quest With Me</span>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Abdlatif-nabgha" target="_blank">
+  <a href="https://www.linkedin.com/in/abd-latif-nabgha-254319290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Abdlatif-nabgha" target="_blank">
