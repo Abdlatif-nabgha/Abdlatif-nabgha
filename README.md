@@ -1,85 +1,119 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to Abd Latif Nabgha's Code Universe
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<h3 align="center" style="font-size: 1.5em; color: #4ECDC4;">Distributed Systems Maestro | Code Alchemist | Digital Explorer</h3>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=500&lines=Distributed+Systems+Enthusiast;Python+and+C+Sorcerer;Problem-Solving+Ninja;Perpetual+Learner" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-</p>
-
-## <span style="color: #FF6B6B;">🚀 The Saga of Code and Curiosity</span>
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-
-<p style="font-size: 1.1em;">
-Greetings, digital adventurers! I'm Abd Latif, a code conjurer navigating the intricate realms of Software & Distributed Systems. Currently orbiting <strong style="color: #4ECDC4;">ENSET Mohammedia</strong>, I'm on an epic quest to harness the power of scalable architectures and craft elegant algorithmic spells.
-</p>
-
-- 🔭 Currently crafting: **A distributed system to revolutionize parallel computing**
-- 🌱 Leveling up in: **Advanced Python sorcery and C programming arcana**
-- 👯 Seeking allies for: **Groundbreaking projects at the frontiers of tech**
-- 🥅 2024 Quests: **Leave my mark on open-source realms and forge a legendary distributed app**
-- ⚡ Legend says: **I once debugged an entire codebase in a single sitting, fueled only by determination (and maybe a little coffee)**
-
-## <span style="color: #FF6B6B;">🛠️ Arsenal of Digital Wizardry</span>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-FF6B6B?style=for-the-badge&logo=moleculer&logoColor=white" alt="Distributed Systems" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## <span style="color: #FF6B6B;">📊 Chronicles of My Digital Odyssey</span>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdlatif-nabgha&show_icons=true&theme=radical" alt="Abd Latif's GitHub Stats" />
+  <h1>
+    <span style="color: #f0efe7;">Hi 👋, I'm </span>
+    <span style="color: #f14e32;">Abd Latif Nabgha</span>
+  </h1>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdlatif-nabgha&theme=radical" alt="Abd Latif's GitHub Streak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF0000,FF4500,FF6347,DC143C,B22222&center=true&vCenter=true&width=940&lines=Software+Engineer;Web+Developer;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
-## 🎓 Scroll of Academic Achievements
+
+---
+
+## 🚀 About Me
+
+I'm studying computer science and passionate about software engineering. I love building scalable and maintainable software solutions, with a strong focus on clean code architecture and unit testing. My goal is to create robust applications that solve real-world problems while following best practices in software development. In my free time, I enjoy solving algorithmic problems on LeetCode to sharpen my problem-solving skills.
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Institution | Journey | Period | Milestone |
-|-------------|---------|--------|-----------|
-| **ENSET Mohammedia** | Mastery of Software & Distributed Systems | Current | Decoding the mysteries of the digital cosmos |
-| **FSTM** | DEUST in MIP (Mathematics, Informatics, Physics) | 2022 - 2024 | Forged the cornerstone of technological prowess |
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database & Storage
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<p align="center"><em>Each step on this path illuminates the way to greater knowledge and innovation.</em></p>
+## 🏆 GitHub Trophies
 
-## <span style="color: #FF6B6B;">🌌 Embark on This Coding Quest With Me</span>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdlatif-nabgha&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abd-latif-nabgha-254319290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Abdlatif-nabgha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdlatif-nabgha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdlatif-nabgha&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdlatif-nabgha&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+
+
+
+## 🎯 Current Goals
+
+- 🚀 Complete my Software Engineering degree
+- 💼 Secure an exciting internship opportunity
+- 🧠 Master AI and machine learning concepts
+- 🌐 Contribute to open-source projects
+- 📱 Build mobile applications
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdlatif-nabgha&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🏅 Certifications
+
+- 🎓 **Modern JavaScript** - Manara
+- 🐍 **Python Essentials 1** - Cisco
+- 🐍 **Python Essentials 2** - Cisco
+- 🌐 **Computer Networks** - Cisco
+- 🐧 **Linux Unhatched** - Cisco
+- 🐧 **Linux Essentials** - Cisco
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-latif-nabgha-254319290)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelatif.nabgha06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdlatif-nabgha)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212605425898)
+
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
   
-  ![Profile views](https://komarev.com/ghpvc/?username=Abdlatif-nabgha&label=Fellow%20Explorers&color=FF6B6B&style=flat)
+  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
   
-  <h4 style="color: #4ECDC4;">⚡ Crafted with code and creativity by <a href="https://github.com/Abdlatif-nabgha" style="color: #FF6B6B;">Abdlatif-nabgha</a> ⚡</h4>
+  <img src="https://komarev.com/ghpvc/?username=Abdlatif-nabgha&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I believe in the power of collaboration!</b> Let's connect and create something extraordinary together!</em>
-</p>
